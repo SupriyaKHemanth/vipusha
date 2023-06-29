@@ -1,4 +1,4 @@
-yimport * as React from 'react';
+import * as React from 'react';
 
 import AttributeGrid from '../components/AttributeGrid';
 import Container from '../components/Container';
