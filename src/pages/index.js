@@ -36,22 +36,10 @@ const IndexPage = () => {
         ctaAction={goToShop}
       />
 
-      {/* Message Container */}
-      <div className={styles.messageContainer}>
-        <p>
-          This is a demonstration of the Sydney theme for verse by{' '}
-          <span className={styles.gold}>matter design.</span>
-        </p>
-        <p>
-          wear by <span className={styles.gold}>sunspel</span> and{' '}
-          <span className={styles.gold}>scotch&soda</span>
-        </p>
-      </div>
-
       {/* Collection Container */}
       <div className={styles.collectionContainer}>
         <Container size={'large'}>
-          <Title name={'New Collection'} />
+          <Title name={'Best Sellers'} />
           <ProductCollectionGrid />
         </Container>
       </div>
@@ -59,7 +47,7 @@ const IndexPage = () => {
       {/* New Arrivals */}
       <div className={styles.newArrivalsContainer}>
         <Container>
-          <Title name={'New Arrivals'} link={'/shop'} textLink={'view all'} />
+          <Title name={'Hair Care'} link={'/shop'} textLink={'view all'} />
           <ProductCardGrid
             spacing={true}
             showSlider
@@ -74,7 +62,7 @@ const IndexPage = () => {
       <div className={styles.highlightContainer}>
         <Container size={'large'} fullMobile>
           <Highlight
-            image={'/highlight.png'}
+            image={'/collection1.png'}
             altImage={'highlight image'}
             miniImage={'/highlightmin.png'}
             miniImageAlt={'mini highlight image'}
