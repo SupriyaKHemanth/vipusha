@@ -26,7 +26,7 @@ const AboutPage = (props) => {
         {/* Hero Container */}
         <Hero
           maxWidth={'900px'}
-          image={'/about.png'}
+          image={'/collections/collection1.png'}
           title={`VIPUSHA \n An Indian herbal brand since 2000`}
         />
 
