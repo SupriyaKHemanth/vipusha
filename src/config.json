@@ -1,5 +1,6 @@
 {
   "currencyList": [
+    { "value": "INR", "label": "India Rupee" },
     { "value": "AUS", "label": "Australia (AUS $)" },
     { "value": "CAD", "label": "Canada (CAD $)" },
     { "value": "USD", "label": "United States (US $)" },
@@ -68,60 +69,60 @@
       "menuLink": "/shop",
       "category": [
         {
-          "categoryLabel": "woman",
+          "categoryLabel": "Hair Care",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "Shampoos",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "Hair oils",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "Hair Packs",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
+              "menuLabel": "Hair Conditioners",
               "menuLink": "/shop"
             }
           ]
         },
         {
-          "categoryLabel": "men",
+          "categoryLabel": "Skin Care",
           "submenu": [
             {
-              "menuLabel": "All clothing",
+              "menuLabel": "Cremes",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "sweatshirts & hoodies",
+              "menuLabel": "Soaps",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "jackets",
+              "menuLabel": "Lotions",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "trousers",
+              "menuLabel": "Face Packs",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "pants",
+              "menuLabel": "Face Washes",
               "menuLink": "/shop"
             }
           ]
         },
         {
-          "categoryLabel": "accessories",
+          "categoryLabel": "Other Essentials",
           "submenu": [
             {
-              "menuLabel": "caps & scarves",
+              "menuLabel": "Tooth powder",
               "menuLink": "/shop"
             },
             {
-              "menuLabel": "bags",
+              "menuLabel": "Kashaya Powder",
               "menuLink": "/shop"
             }
           ]
