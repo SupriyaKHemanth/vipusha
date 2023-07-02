@@ -86,7 +86,7 @@ const IndexPage = () => {
       {/* Quote */}
       <Quote
         bgColor={'var(--standard-light-grey)'}
-        title={'about Sydney'}
+        title={'about VIPUSHA'}
         quote={
           '“We believe in two things: the pursuit of quality in everything we do, and looking after one another. Everything else should take care of itself.”'
         }
@@ -118,7 +118,7 @@ const IndexPage = () => {
       <div className={styles.socialContainer}>
         <Title
           name={'Styled by You'}
-          subtitle={'Tag @sydney to be featured.'}
+          subtitle={'Tag @Vipusha to be featured.'}
         />
         <div className={styles.socialContentGrid}>
           <img src={`/social/socialMedia1.png`} alt={'social media 1'} />
