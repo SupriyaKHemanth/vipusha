@@ -59,7 +59,7 @@ const IndexPage = () => {
       </div>
 
       {/* Highlight  */}
-      <div className={styles.highlightContainer}>
+      {/* <div className={styles.highlightContainer}>
         <Container size={'large'} fullMobile>
           <Highlight
             image={'/collection1.png'}
@@ -72,7 +72,7 @@ const IndexPage = () => {
             link={'/shop'}
           />
         </Container>
-      </div>
+      </div> */}
 
       {/* Promotion */}
       <div className={styles.promotionContainer}>
